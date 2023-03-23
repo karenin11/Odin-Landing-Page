@@ -1,0 +1,44 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    color: antiquewhite;
+    margin:0;
+}
+
+main{
+    background-color: #4361ee;
+}
+.navbar{
+    display: flex;
+    justify-content: right;
+    list-style-type: none;
+    gap: 2em;
+    margin-left: 150px;
+   padding-top: 30px;
+   padding-right: 15px;
+}
+
+.bigdiv{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 100px;
+    margin-top: 200px;
+    margin-right: 170px;
+
+}
+.donna{
+    width: 600px;
+    border-radius: 3px;
+    padding-bottom: 30px;
+}
+.para1{
+    font-size: 30px;
+    width: 70%;
+    margin-right: 140px;
+    background-color: #3a0ca3;
+    border-radius: 3px;
+    padding-left: 7px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align:start;
+}
