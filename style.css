@@ -22,7 +22,7 @@ main{
     display: flex;
     justify-content: space-around;
     margin-left: 100px;
-    margin-top: 200px;
+    margin-top: 150px;
     margin-right: 170px;
 
 }
@@ -30,15 +30,120 @@ main{
     width: 600px;
     border-radius: 3px;
     padding-bottom: 30px;
+    margin-bottom: 50px;
+}
+.futurenow{
+    font-size: 40px;
+    background-color: #7209b7;
+    display: inline;
+    border-radius: 3px;
+    padding-right: 8px;
+    padding-left: 8px;
 }
 .para1{
     font-size: 30px;
     width: 70%;
-    margin-right: 140px;
+    margin-right: 150px;
     background-color: #3a0ca3;
     border-radius: 3px;
-    padding-left: 7px;
+    padding-left: 10px;
     padding-top: 20px;
     padding-bottom: 20px;
     text-align:start;
+}
+.sub{
+    margin-left: 20px;
+    border: none;
+    border-radius: 3px;
+    color:antiquewhite;
+    background-color:#3a0ca3;
+    padding-left: 4px;
+    padding-right: 4px;
+    width:10%;
+    height: 10%;
+    font-weight: bold;
+    font-size: 15px;
+}
+.main2{
+    background-color: #012a4a;
+}
+.newp{
+    text-align: center;
+    margin: 0;
+    padding-top: 16px;
+}
+.banner{
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    gap: 5em;
+    background-color: #012a4a;
+   
+
+}
+.imgb{
+    padding-top: 20px;
+    border-radius: 4px;
+    height: 400px;
+}
+.hope{
+    margin-top: 200px;
+    text-align: center;
+}
+.banner2{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 35px;
+    padding-bottom: 100px;
+}
+.bannerp{
+    text-align: center;
+}
+.quote{
+    background-color: antiquewhite;
+    color: #012a4a;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+.newsletter{
+    display: flex;
+    justify-content: space-around;
+    background-color: #4361ee;
+    padding: 60px 60px 30px 60px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-radius: 5px;
+}
+.aggiorn{
+    margin-left: 500px;
+    border: none;
+    border-radius: 3px;
+    background-color: #118ab2;
+    font-weight: bold;
+    color: antiquewhite;
+    padding: 3px 10px 3px 10px;
+    width: 10%;
+    margin-top: 10px;
+    position: relative;
+    bottom: 20px;
+    right:50px;
+}
+.wanna{
+    font-size: 24px;
+    position: relative;
+    bottom: 15px;
+}
+.friday{
+    position: relative;
+    left: 90px;
+}
+.fine{
+    text-align: center;
+    color: antiquewhite;
+    background-color: #012a4a;
+    padding-top: 5px;
+    padding-bottom: 6px;
 }
